@@ -6,6 +6,8 @@
 - 💬 Ask me about **kotlin, Android**
 
 - 📫 How to reach me **strizikelias@hotmail.com**
+- ![image](https://github.com/Strizik/Strizik/assets/128645852/70259e3d-7bb1-4c8e-bc75-6e58b28ec22b)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
