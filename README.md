@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias Strizik</h1>
 <h3 align="center">A passionate Mobile developer</h3>
-![image](https://github.com/Strizik/Strizik/assets/128645852/26eef3ed-4946-4a0d-8e89-20663aaeef35)
+![image](https://github.com/Strizik/Strizik/assets/128645852/9636ff29-6394-434d-a89d-a259b997d274)
+
 
 
 - 🔭 I’m currently working on personal projects 
