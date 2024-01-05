@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Elias Strizik</h1>
 <h3 align="center">A passionate Mobile developer</h3>
+https://www.canva.com/design/DAF4-IyAm18/xmhuAYdA4GOAsJ4oHRXQTQ/view?utm_content=DAF4-IyAm18&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 - 🔭 I’m currently working on personal projects 
 
 - 💬 Ask me about **kotlin, Android**
 
 - 📫 How to reach me **strizikelias@hotmail.com**
-- ![image](https://github.com/Strizik/Strizik/assets/128645852/70259e3d-7bb1-4c8e-bc75-6e58b28ec22b)
+
 
 
 <h3 align="left">Connect with me:</h3>
