@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elias Strizik</h1>
 <h3 align="center">A passionate Mobile developer</h3>
 
-- 🔭 I’m currently working on personal projects **ProyectApp**
+- 🔭 I’m currently working on personal projects 
 
-- 💬 Ask me about **kotlin, android**
+- 💬 Ask me about **kotlin, Android**
 
 - 📫 How to reach me **strizikelias@hotmail.com**
 
