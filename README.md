@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias Strizik</h1>
 <h3 align="center">A passionate Mobile developer</h3>
-https://www.canva.com/design/DAF4-IyAm18/xmhuAYdA4GOAsJ4oHRXQTQ/view?utm_content=DAF4-IyAm18&utm_campaign=designshare&utm_medium=link&utm_source=editor
+![image](https://github.com/Strizik/Strizik/assets/128645852/26eef3ed-4946-4a0d-8e89-20663aaeef35)
+
 
 - 🔭 I’m currently working on personal projects 
 
