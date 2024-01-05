@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Mobile developer</h3>
 
-- 🔭 I’m currently working on personal projects 
+- 🔭 I’m currently working on Szhardware 
 
 - 💬 Ask me about **kotlin, Android**
 
