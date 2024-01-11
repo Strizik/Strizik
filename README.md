@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate developer</h3> 
 
-- 💬 Ask me about **Python ,kotlin, Android**
+- 💬 Ask me about **Python ,kotlin, Android, Persistencia de datos**
 
 - 📫 How to reach me **strizikelias@hotmail.com**
 
